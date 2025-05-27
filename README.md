@@ -158,4 +158,4 @@ Desde otra terminal.
 
 ```powershell
  ffplay -fflags nobuffer -flags low_delay -hide_banner -an udp://127.0.0.1:1234
- ```
+```
